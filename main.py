@@ -4,6 +4,10 @@ import pickle
 import time
 
 print("yey")
+
+def nova_func_muito_util():
+    print("isto é uma func muito util")
+
 def retira_cont_interior(cont, hierq):
     """
     Este métodos retira todos os contornos interiores.
