@@ -3,6 +3,7 @@ import numpy as np
 import pickle
 import time
 
+print("yey")
 def retira_cont_interior(cont, hierq):
     """
     Este métodos retira todos os contornos interiores.
